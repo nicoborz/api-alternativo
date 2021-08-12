@@ -1,0 +1,35 @@
+{
+    "nombre": "Pelicula",
+    "listado": [
+        {
+            "ID": "1",
+            "Nombre": "a",
+            "Direccion": "2000",
+            "Telefono": "1000000"
+        },
+        {
+            "ID": "1",
+            "Nombre": "a",
+            "Direccion": "2000",
+            "Telefono": "1000000"
+        },
+        {
+            "ID": "1",
+            "Nombre": "a",
+            "Direccion": "2000",
+            "Telefono": "1000000"
+        },
+        {
+            "ID": "1",
+            "Nombre": "a",
+            "Direccion": "2000",
+            "Telefono": "1000000"
+        },
+        {
+            "ID": "1",
+            "Nombre": "a",
+            "Direccion": "2000",
+            "Telefono": "1000000"
+        }
+    ]
+}

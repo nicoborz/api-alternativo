@@ -1,0 +1,25 @@
+{
+    "nombre": "Ejemplar",
+    "listado": [
+        {
+            "ID": "1",
+            "Localizacion": "a"
+        },
+        {
+            "ID": "2",
+            "Localizacion": "a"
+        },
+        {
+            "ID": "3",
+            "Localizacion": "a"
+        },
+        {
+            "ID": "4",
+            "Localizacion": "a"
+        },
+        {
+            "ID": "5",
+            "Localizacion": "a"
+        }
+    ]
+}

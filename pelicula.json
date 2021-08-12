@@ -1,0 +1,35 @@
+{
+    "nombre": "Pelicula",
+    "listado": [
+        {
+            "ID": "1",
+            "Titulo": "a",
+            "Año": "2000",
+            "Duracion": "90"
+        },
+        {
+            "ID": "2",
+            "Titulo": "a",
+            "Año": "2000",
+            "Duracion": "90"
+        },
+        {
+            "ID": "3",
+            "Titulo": "a",
+            "Año": "2000",
+            "Duracion": "90"
+        },
+        {
+            "ID": "4",
+            "Titulo": "a",
+            "Año": "2000",
+            "Duracion": "90"
+        },
+        {
+            "ID": "5",
+            "Titulo": "a",
+            "Año": "2000",
+            "Duracion": "90"
+        }
+    ]
+}

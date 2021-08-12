@@ -1,0 +1,25 @@
+{
+    "nombre": "Compañia",
+    "listado": [
+        {
+            "ID": "1",
+            "Nombre": "a"
+        },
+        {
+            "ID": "2",
+            "Nombre": "a"
+        },
+        {
+            "ID": "3",
+            "Nombre": "a"
+        },
+        {
+            "ID": "4",
+            "Nombre": "a"
+        },
+        {
+            "ID": "5",
+            "Nombre": "a"
+        }
+    ]
+}
